@@ -2,7 +2,7 @@
 
 tutorial :
 
-Link Site : [Instagram Login](https://rrvmiii.github.io/Instagram.login.v1/login.html)
+Link Site : [Instagram Login](https://rrvmiii.github.io/Instagram.Login.v2-White/Login.html)
 
 Enjoy :)
 
